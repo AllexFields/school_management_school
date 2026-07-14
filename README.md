@@ -181,7 +181,7 @@ python main.py
 
 ## Version 1
 
-![Version1](Screenshots/01_original_runtime_program.png)
+![Version1](School_Management_System/Screenshots/01_original_runtime_program.png)
 
 ---
 
