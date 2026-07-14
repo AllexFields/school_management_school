@@ -250,5 +250,9 @@ Through this project I learned:
 # 👨‍💻 Author
 
 Shivam Thakur
+AI-Enabled Data Analyst | Persistent Learner | Exploring Data Analytics & AI
 
-GitHub:
+# 📬 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/shivam-thakur-55b167406/
+- 📧 Email: dataanalyst.shivamthakur@gmail.com
