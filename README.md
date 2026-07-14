@@ -187,37 +187,37 @@ python main.py
 
 ## Main Menu
 
-![Menu](Screenshots/02_main_menu.png)
+![Menu](School_Management_System/Screenshots/02_main_menu.png)
 
 ---
 
 ## Add Student
 
-![Add Student](Screenshots/03_add_student.png)
+![Add Student](School_Management_System/Screenshots/03_add_student.png)
 
 ---
 
 ## View Students
 
-![View Students](Screenshots/04_view_students.png)
+![View Students](School_Management_System/Screenshots/04_view_students.png)
 
 ---
 
 ## Update Student
 
-![Update Student](Screenshots/05_update_student.png)
+![Update Student](School_Management_System/Screenshots/05_update_student.png)
 
 ---
 
 ## MySQL Database
 
-![Database](Screenshots/07_mysql_database.png)
+![Database](School_Management_System/Screenshots/07_mysql_database.png)
 
 ---
 
 ## Delete Record
 
-![Structure](Screenshots/06_delete_student.png)
+![Structure](School_Management_System/Screenshots/06_delete_student.png)
 
 ---
 
