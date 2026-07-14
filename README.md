@@ -187,7 +187,7 @@ python main.py
 
 ## Main Menu
 
-![Menu](screenshots/02_menu.png)
+![Menu](screenshots/02_main_menu.png)
 
 ---
 
@@ -211,13 +211,13 @@ python main.py
 
 ## MySQL Database
 
-![Database](screenshots/06_mysql_database.png)
+![Database](screenshots/07_mysql_database.png)
 
 ---
 
-## Project Structure
+## Delete Record
 
-![Structure](screenshots/07_project_structure.png)
+![Structure](screenshots/06_delete_student.png)
 
 ---
 
