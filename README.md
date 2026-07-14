@@ -181,43 +181,43 @@ python main.py
 
 ## Version 1
 
-![Version1](screenshots/01_original_runtime_program.png)
+![Version1](Screenshots/01_original_runtime_program.png)
 
 ---
 
 ## Main Menu
 
-![Menu](screenshots/02_main_menu.png)
+![Menu](Screenshots/02_main_menu.png)
 
 ---
 
 ## Add Student
 
-![Add Student](screenshots/03_add_student.png)
+![Add Student](Screenshots/03_add_student.png)
 
 ---
 
 ## View Students
 
-![View Students](screenshots/04_view_students.png)
+![View Students](Screenshots/04_view_students.png)
 
 ---
 
 ## Update Student
 
-![Update Student](screenshots/05_update_student.png)
+![Update Student](Screenshots/05_update_student.png)
 
 ---
 
 ## MySQL Database
 
-![Database](screenshots/07_mysql_database.png)
+![Database](Screenshots/07_mysql_database.png)
 
 ---
 
 ## Delete Record
 
-![Structure](screenshots/06_delete_student.png)
+![Structure](Screenshots/06_delete_student.png)
 
 ---
 
